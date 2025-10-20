@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Hi There GIF](https://media.giphy.com/media/v1.gif/giphy.gif)
+![Hi There GIF](https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif)
 
 halo nama saya reza, saya kadang kadang ngoding kalo lagi mood
 
