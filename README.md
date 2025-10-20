@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-https://pin.it/5SpW2YIcj
+![Hi There GIF](https://media.giphy.com/media/v1.gif/giphy.gif)
 
 halo nama saya reza, saya kadang kadang ngoding kalo lagi mood
 
