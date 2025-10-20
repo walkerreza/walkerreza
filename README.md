@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About gwe:
 
 <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="800" alt="Animated GIF">
 
