@@ -2,8 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="800" alt="Animated GIF">
 
-halo nama saya reza, saya kadang kadang ngoding kalo lagi mood
-
+<h1>Halo Nama Saya Reza</h1> <h3>Halo Nama Saya Reza</h3>
 
 
 ## 🌐 Socials:
