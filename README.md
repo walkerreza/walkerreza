@@ -2,7 +2,12 @@
 
 <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="800" alt="Animated GIF">
 
-<h1>Halo Nama Saya Reza</h1> <h3>Halo Nama Saya Reza</h3>
+<h1>Halo Nama Saya Reza</h1>
+<b>saya biasanya ngoding kalo lagi guabut</b>
+
+<b>domisili jatim</b>
+
+<b>pecinta warung bekicot 02 cabang jombang</b>
 
 
 ## 🌐 Socials:
