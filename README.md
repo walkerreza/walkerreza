@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+https://pin.it/5SpW2YIcj
+
 halo nama saya reza, saya kadang kadang ngoding kalo lagi mood
 
 
