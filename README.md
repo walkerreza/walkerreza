@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="300" alt="Animated GIF">
+<img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="1000" alt="Animated GIF">
 
 halo nama saya reza, saya kadang kadang ngoding kalo lagi mood
 
