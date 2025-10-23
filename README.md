@@ -1,6 +1,7 @@
 # 💫 About gwe:
 
-![Kaoruko Waguri](https://media.tenor.com/6aA7z9oM5rMAAAAC/kaoruko-waguri.gif)
+<img src="https://media.tenor.com/6aA7z9oM5rMAAAAC/kaoruko-waguri.gif" width="800" alt="Kaoruko Waguri GIF">
+
 
 
 <h1>Halo Nama Saya Reza</h1>
