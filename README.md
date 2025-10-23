@@ -1,6 +1,7 @@
-# 💫 About gwe:
+  # 💫 About gwe:
 
-<img src="https://media.tenor.com/6aA7z9oM5rMAAAAC/kaoruko-waguri.gif" width="800" alt="Kaoruko Waguri GIF">
+![Kaoruko Waguri](https://i.pinimg.com/originals/b0/30/0b/b0300be2ea632ccf8fb4253bf56983e7.gif)
+
 
 
 
