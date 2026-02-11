@@ -1,18 +1,28 @@
   # 💫 About gwe:
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=italian+bold&weight=300&pause=1000&color=6CF7D0&center=true&vCenter=true&multiline=true&random=true&width=435&lines=%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BB%E3%83%AC%E3%82%B6%E3%81%A7%E3%81%99%E3%80%82%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%A7%E3%81%99%E3%80%82%E5%88%9D%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%82" alt="Typing SVG" /></a>
 
 <img src="https://i.pinimg.com/originals/b0/30/0b/b0300be2ea632ccf8fb4253bf56983e7.gif" width="800" alt="Kaoruko Waguri GIF">
 
 
+<img src="https://i.pinimg.com/564x/93/55/1e/93551ea9d55ce6501cf0c8e97f2ab104.jpg" 
+alt="<3" align="left" width="30%" height="500%">
 
+```csharp
+-----------------------------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------------------------
 
+Username: reza 
+WhoamI: just me
+OS: main windows but, wanna move to kali linux
+Hobbies: sending altilerry to mossad     
+Games: chess
+Interests: waguri
 
-<h1>Halo Nama Saya Reza</h1>
-<b>saya biasanya ngoding kalo lagi guabut</b>
+╰────────🖥️ mending gaji 8M tapi bersyukur daripada gaji 4 juta tapi tidak bersyukur 🖥️───────────╯
 
-<b>domisili jatim</b>
+-------------------------------------------------------------
+```
 
-<b>pecinta warung bekicot 02 cabang jombang</b>
-##
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Reza%20walker) 
